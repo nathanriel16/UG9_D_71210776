@@ -7,4 +7,4 @@ anakketiga = int(input("Uang saku anak ketiga:"))
 ratarata = (anakpertama+anakkedua+anakketiga)/3
 
 #print
-print("\tRata-rata dari ", anakpertama, "+", anakkedua, "+", anakketiga, "\t adalah", ratarata)
+print("Rata-rata dari ", anakpertama, "+", anakkedua, "+", anakketiga, " adalah", ratarata)
